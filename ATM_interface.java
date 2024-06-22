@@ -1,12 +1,6 @@
-/*Name: M.Sandeep 
-
 Internship name: OASIS INFOBYTE
 
 Domain: JAVA DEVELOPMENT
-
-Task-1 : Online Reservation System
-
-Task-2 : Number Guessing Game
 
 Task-3 : ATM Interface
 */
